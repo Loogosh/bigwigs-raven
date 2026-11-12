@@ -1,0 +1,25 @@
+## Interface: 11402
+
+## Title: BigWigs [|cffeda55fRaven|r]
+## Title-ruRU: BigWigs [|cffeda55fRavenCraft|r]
+## Notes: RavenCraft's custom dungeons and raids for BigWigs: Emerald Sanctum, Karazhan, Timbermaw Hold, Black Morass.
+## Notes-ruRU: Кастомные подземелья и рейды RavenCraft для BigWigs: Изумрудное святилище, Каражаy, Логово Племени Древа, Чёрные топи.
+## Author: RavenUI
+## Version: 0.1.0
+## Dependencies: BigWigs
+## X-Category: Raid
+
+core.lua
+bosses\EmeraldSanctum.lua
+bosses\MoltenCore.lua
+bosses\BlackwingLair.lua
+bosses\Naxxramas.lua
+bosses\AhnQiraj.lua
+bosses\RuinsOfAhnQiraj.lua
+bosses\ZulGurub.lua
+bosses\BlackrockSpire.lua
+bosses\DireMaul.lua
+bosses\WorldBosses.lua
+bosses\Karazhan.lua
+bosses\TimbermawHold.lua
+bosses\BlackMorass.lua
